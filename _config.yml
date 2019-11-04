@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Sofia Moschou"
-  avatar           : "/images/smoschou.png"
+  avatar           : "smoschou.png"
   bio              : "I am a plasma astrophysics expert and my speciality in the last few years has been the study of the solar - stellar relation regarding activity events and the effects of activity on (exo)planetary magnetospheres and habitability."
   location         : "Center for Astrophysics | Harvard & Smithsonian"
   employer         :
