@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S. P. Moschou Website"
+title                    : "Personal Website"
 title_separator          : "-"
-name                     : &name "SOFIA MOSCHOU"
+name                     : &name "SOFIA P. MOSCHOU"
 description              : &description ""
 url                      : "https://smoschou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
