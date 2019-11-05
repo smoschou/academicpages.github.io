@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 02/2017 - now: Postdoctoral Research Fellow
+  * Center for Astrophysics \| Harvard & Smithsonian
+  * Research: CME-flare relation from a theoretical and computational perspective.
+  * Supervisor: Dr. Jeremy Drake
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Teaching Fellow
+  * Harvard University
+  * Duties included: Grading, Office Hours, Group Project Supervisor
+  * Supervisor: Professor Pavlos Protopapas
   
 Skills
 ======
