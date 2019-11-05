@@ -6,8 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-## PhD in Computational Plasma Astrophysics
+----|----|----|-----|------
+| ## PhD in Computational Plasma Astrophysics | | |
 ---
 
 
