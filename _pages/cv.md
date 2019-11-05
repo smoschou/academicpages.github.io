@@ -27,7 +27,7 @@ Work experience
   * Duties included: Grading, Office Hours, Group Project Supervisor
   * Supervisor: Professor Pavlos Protopapas
   
-Skills
+Research Grants
 ======
 * Skill 1
 * Skill 2
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership, Service & Outreach
 ======
 * Currently signed in to 43 different slack teams
