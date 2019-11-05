@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sofia P. Moschou <br> ## PhD in Computational Plasma Astrophysics"
+title: "Sofia P. Moschou <br> PhD in Computational Plasma Astrophysics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
