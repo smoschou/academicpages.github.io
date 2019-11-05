@@ -48,7 +48,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  1. ”Potential Field Source Surface Extrapolations”, CHARM 2nd meeting, Ghent, Belgium, January 2014.
+  ---
+title: "Potential Field Source Surface Extrapolations"
+collection: talks
+type: "Talk"
+permalink: /talks/2014-01-talk-1
+venue: "CHARM 2nd meeting, , Department of Testing"
+date: 2012-03-01
+location: "Ghent, Belgium"
+---
+  
 
 2. ”Potential Magnetic Field Extrapolations”, University of Athens, Greece, July 2014.
 
