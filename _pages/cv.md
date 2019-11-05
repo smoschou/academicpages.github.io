@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, National and Kapodistrian University of Athens, Greece, 2010
+* M.S. in Astrophysics, Astronomy & Mechanics, National and Kapodistrian University of Athens, Greece, 2012
+* Ph.D in Computational Plasma Astrophysics, KULeuven, Belgium, 2016
 
 Work experience
 ======
